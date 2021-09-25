@@ -1,0 +1,8 @@
+name = "tron-makers"
+type = "webpack"
+account_id = "158a40459952abd57df2ee95f7ade830"
+route = "dash.tronmakers.com/*"
+zone_id = "44452ae303b36056a91190ad3cbe70f0"
+
+[site]
+bucket = "./src"
